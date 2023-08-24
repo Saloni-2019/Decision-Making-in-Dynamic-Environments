@@ -1,1 +1,6 @@
 # Decision-Making-in-Dynamic-Environments
+
+
+The project is based on decision making in noisy and changing environments. In such environments, the rewards associated to different options keep changing with time and so we have to maintain a balance between exploring the new or changed options and exploiting the known ones. Further, the extended goal is to observed schizotypic behaviour in such situations.  
+So for the above purposes, we constructed a restless bandit task with 4 arms, each of which is associated to a reward value which changes with time. Experiment was conducted against two conditions – effect of changing volatility and effect of stress. The hypothesis of the experiment is that in cases of high volatility, people should have lower rewards earned due to increased uncertainty of options. Similarly, increased stress should also lead to lower rewards.
+Data from various participants was collected and preprocessed for further analysis. On analysis, we do observe similar results as the hypothesis. Further goal, is to find a correlation between data from the O-LIVE scale surveys and the results obtained from the experiment, to be able to study the  schizotypic behaviour better.
